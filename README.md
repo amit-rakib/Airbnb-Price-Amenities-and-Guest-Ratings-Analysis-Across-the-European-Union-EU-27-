@@ -14,16 +14,14 @@ The dataset included amenities across multiple categories: scenic views, bathroo
 ## 🔍 Analysis Focus  
 The analysis explored average nightly prices across countries and cities, identified the top five most expensive and bottom five cheapest cities, and ranked countries based on both **Price & Guest Reviews** as well as **Price & Amenities**.  
 
-## 📈 Visualizations (Tableau)  
-- Average Price per Country  
-- Top 5 Most Expensive Cities  
-- Bottom 5 Cheapest Cities  
-- Country Rankings by Price + Guest Reviews  
-- Country Rankings by Price + Amenities  
+## 📈 Visualizations  
+You can view the full interactive dashboard here:  
+👉 [Airbnb EU-27 Analysis on Tableau Public](https://public.tableau.com/app/profile/md.amit.hasan.rakib/viz/Airbnb1_17560996514760/Dashboard1?publish=yes)  
 
 ## 🛠 Tools & Technologies  
 Python (Selenium, Pandas), Tableau, Git/GitHub  
 
 ## 📌 Conclusion  
 By analyzing 2,521 Airbnb listings from 27 EU countries and 135 cities, this project highlights how guest satisfaction and amenities availability drive pricing differences across Europe. The results provide insights into which factors make Airbnb listings more valuable and competitive in different markets.  
+
 
